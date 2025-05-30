@@ -1,4 +1,4 @@
-# Introduction to Repository Management
+# Introduction to Repository Management.
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
